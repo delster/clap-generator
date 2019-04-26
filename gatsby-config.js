@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `👏 Text Generator`,
+    title: `Clap 👏 Text 👏 Generator`,
     description: `Your 👏 text 👏 lacks 👏 claps. 👏 Let 👏 me 👏 help.`,
     author: `@delster`,
   },
@@ -22,6 +22,6 @@ module.exports = {
       },
     },
     // Progressive Web App + Offline functionality
-   `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }

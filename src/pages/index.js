@@ -5,7 +5,7 @@ import Generator from "../components/generator"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Home" keywords={[`clap`, `text`, `generator`]} />
     <p style={{textAlign: `center`}}>Emphasize 👏 your 👏 text.</p>
     <Generator />
   </Layout>
